@@ -5,4 +5,5 @@
 VISION Project : Transfer learning with VGG-16
 
 original model : VGG-16
+
 class : car/bus/truck
